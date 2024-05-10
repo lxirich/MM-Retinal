@@ -35,14 +35,14 @@ A six-person team took four weeks to get MM-Retinal completed.
 * **[MM-Retinal v1]():** Current version of MM-Retinal dataset includes 2,169 CFP cases, 1,947 FFA cases and 233 OCT cases. Each case is provided with an image and texts in both English and Chinese.
 
 ## :palm_tree: Usage
-Simply set up the required environment as following:
+<!-- Simply set up the required environment as following:
 ```bash
 conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cuda=11.6 -c pytorch -c nvidia
 pip install transformers=4.28.1, sentencepiece, datasets
-```
+``` -->
 
 ## Quick Start
-Check `simple_test.py` for quickly use PMC-LLaMA or you can follow this folowing simple sample.
+<!-- Check `simple_test.py` for quickly use PMC-LLaMA or you can follow this folowing simple sample. -->
 
 <!-- ```python
 import transformers
@@ -98,7 +98,7 @@ The script for pretraining locates at `Pretrain/training.sh`.
 
 Our pretraining dataset sources from [S2ORC](https://github.com/allenai/s2orc). Only those papers with PubMed IDs are deemed as medical-related and used during pretraining.
 <!-- The raw training data can be dowloaded from [S2ORC](https://github.com/allenai/s2orc), filter out the papers with PubmedCentral IDs, and you can get the training data we use.  -->
-
+<!-- 
 The book is listed in this repo as [MedicalBook.xlsx](https://github.com/chaoyi-wu/PMC-LLaMA/blob/main/MedicalBook.xlsx), due to licenses, we cannot release raw content. For reproducing, pls buy and process the books.
 
 More details about how to fine-tune LLaMA can refer to [Finetune_LLAMA](https://github.com/chaoyi-wu/Finetune_LLAMA) -->
