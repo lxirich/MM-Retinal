@@ -9,8 +9,8 @@ We propose **MM-Retinal**, a multi-modal dataset that encompasses high-quality i
 Our proposed fundus foundation model achieves **state-of-the-art** performance across **six** unseen downstream tasks. KeepFIT holds the generalization ability in zero-shot and few-shot scenarios. 
 
 ## :rocket: Updates
-* **[2024.5.13]** We are excited to release : :white_check_mark:[dataset]()(https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/edit/v1.0/README.md#bookmark_tabs-catalog) for ***MM-Retinal***!
-* **[2024.5.13]** We are excited to release : :white_check_mark:[training/evaluation code](), :white_check_mark: [new checkpoints](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/edit/v1.0/README.md#bookmark_tabs-catalog), and :white_check_mark: [comprehensive readmes](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/edit/v1.0/README.md#bookmark_tabs-catalog) for ***KeepFIT***!
+* **[2024.5.13]** We are excited to release : :white_check_mark:[dataset]() for ***MM-Retinal***!
+* **[2024.5.13]** We are excited to release : :white_check_mark:[training/evaluation code](), :white_check_mark: [new checkpoints](), and :white_check_mark: [comprehensive readmes]() for ***KeepFIT***!
   
 ## :sunflower: Data Collection and Statistics
 
