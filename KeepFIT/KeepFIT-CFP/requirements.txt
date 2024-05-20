@@ -1,0 +1,12 @@
+kornia==0.6.12
+matplotlib==3.7.5
+numpy==1.24.3
+pandas==1.5.3
+Pillow==10.0.1
+Pillow==10.3.0
+scikit_learn==1.2.1
+setuptools==68.2.2
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.66.1
+transformers==4.27.4
